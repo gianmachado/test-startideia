@@ -1,0 +1,13 @@
+.containerNotFound {
+  display: flex;
+  justify-content: center;
+  padding-top: 3rem;
+}
+
+.labelNotFind {
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  align-self: center;
+  margin-left: 1rem;
+}

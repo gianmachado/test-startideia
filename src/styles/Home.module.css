@@ -1,0 +1,28 @@
+.containerMain {
+  display: flex;
+  flex-direction: column;
+  padding: 6rem 0;
+  width: 50%;
+  margin: auto;
+}
+
+.mainHome {
+  width: 100%;
+  justify-content: space-between;
+  display: flex;
+}
+.containerSearch {
+  display: flex;
+  gap: 30px;
+}
+
+.titleHeader {
+  font-size: 40px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.subTitleHeader {
+  font-size: 26px;
+  font-weight: 600;
+}
